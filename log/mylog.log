@@ -1,0 +1,14 @@
+2019-11-12 10:28:56,135 INFO [root] [app.py(<module>:64)] - hello a
+2019-11-12 10:28:56,135 WARNING [root] [app.py(<module>:65)] - 危险
+2019-11-12 10:51:35,723 INFO [root] [Test_iHRM_Emp.py(test_add:35)] - 新增员工信息
+2019-11-12 10:51:35,751 WARNING [root] [Test_iHRM_Emp.py(test_update:53)] - 修改员工信息
+2019-11-12 10:51:35,784 INFO [root] [Test_iHRM_Emp.py(test_get:66)] - 获取员工信息
+2019-11-12 10:51:35,805 WARNING [root] [Test_iHRM_Emp.py(test_delete:80)] - 删除员工信息
+2019-11-12 20:22:50,854 INFO [root] [Test_iHRM_Emp.py(test_add:35)] - 新增员工信息
+2019-11-12 20:22:50,883 WARNING [root] [Test_iHRM_Emp.py(test_update:53)] - 修改员工信息
+2019-11-12 20:22:50,908 INFO [root] [Test_iHRM_Emp.py(test_get:66)] - 获取员工信息
+2019-11-12 20:22:50,929 WARNING [root] [Test_iHRM_Emp.py(test_delete:80)] - 删除员工信息
+2019-11-12 22:55:46,747 INFO [root] [Test_iHRM_Emp.py(test_add:35)] - 新增员工信息
+2019-11-12 22:55:46,795 WARNING [root] [Test_iHRM_Emp.py(test_update:53)] - 修改员工信息
+2019-11-12 22:55:46,856 INFO [root] [Test_iHRM_Emp.py(test_get:66)] - 获取员工信息
+2019-11-12 22:55:46,892 WARNING [root] [Test_iHRM_Emp.py(test_delete:80)] - 删除员工信息
